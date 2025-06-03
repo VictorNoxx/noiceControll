@@ -1,4 +1,4 @@
-# 🎤 Server Noise Monitor with Telegram Alerts
+# 🎤 Noise Monitor with Telegram Alerts
 
 [![GitHub license](https://img.shields.io/github/license/VictorNoxx/NoiseControl)](https://github.com/VictorNoxx/NoiseControl/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
