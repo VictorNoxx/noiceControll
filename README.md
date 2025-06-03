@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Alert%20Bot-blue)](https://core.telegram.org/bots)
 [![Downloads](https://img.shields.io/github/downloads/VictorNoxx/noiceControll/total)](https://github.com/VictorNoxx/noiceControll/releases)
 
-![NoiceControll Screenshot](docs/images/screenshot.jpg)
-
 ## 🎯 What is NoiceControll?
 
 NoiceControll is an advanced noise monitoring solution that helps you keep track of sound levels in various environments. Whether you're monitoring server rooms, baby rooms, home security, or workplace noise levels, NoiceControll provides real-time alerts and audio samples when noise thresholds are exceeded.
