@@ -1,6 +1,6 @@
 # 🎤 Server Noise Monitor with Telegram Alerts
 
-[![GitHub license](https://img.shields.io/github/license/artickc/noiceControll)](https://github.com/artickc/noiceControll/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/VictorNoxx/noiceControll)](https://github.com/VictorNoxx/noiceControll/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Telegram](https://img.shields.io/badge/Telegram-Alert%20Bot-blue)](https://core.telegram.org/bots)
 
@@ -35,7 +35,7 @@ A powerful Python-based noise monitoring system designed for server rooms, data 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/artickc/noiceControll.git
+git clone https://github.com/VictorNoxx/noiceControll.git
 cd noiceControll
 ```
 
@@ -91,7 +91,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Contributors
 
-- [@artickc](https://github.com/artickc) - Project maintainer
+- [@VictorNoxx](https://github.com/VictorNoxx) - Project maintainer
+- NOXX Agency - Copyright holder
 
 ## 📄 License
 
@@ -110,4 +111,4 @@ server monitoring, noise detection, hardware diagnostics, server room monitoring
 
 ---
 
-Made with ❤️ by [@artickc](https://github.com/artickc) 
+Made with ❤️ by NOXX Agency
