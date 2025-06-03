@@ -1,13 +1,13 @@
 # 🎤 Server Noise Monitor with Telegram Alerts
 
-[![GitHub license](https://img.shields.io/github/license/VictorNoxx/noiceControll)](https://github.com/VictorNoxx/noiceControll/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/VictorNoxx/NoiseControl)](https://github.com/VictorNoxx/NoiseControl/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Telegram](https://img.shields.io/badge/Telegram-Alert%20Bot-blue)](https://core.telegram.org/bots)
-[![Downloads](https://img.shields.io/github/downloads/VictorNoxx/noiceControll/total)](https://github.com/VictorNoxx/noiceControll/releases)
+[![Downloads](https://img.shields.io/github/downloads/VictorNoxx/NoiseControl/total)](https://github.com/VictorNoxx/NoiseControl/releases)
 
-## 🎯 What is NoiceControll?
+## 🎯 What is NoiseControl?
 
-NoiceControll is an advanced noise monitoring solution that helps you keep track of sound levels in various environments. Whether you're monitoring server rooms, baby rooms, home security, or workplace noise levels, NoiceControll provides real-time alerts and audio samples when noise thresholds are exceeded.
+NoiseControl is an advanced noise monitoring solution that helps you keep track of sound levels in various environments. Whether you're monitoring server rooms, baby rooms, home security, or workplace noise levels, NoiseControl provides real-time alerts and audio samples when noise thresholds are exceeded.
 
 ### 🔍 Perfect For:
 - **Server Room Monitoring**: Detect unusual fan noise or hard drive sounds
@@ -20,7 +20,7 @@ NoiceControll is an advanced noise monitoring solution that helps you keep track
 
 ## 📸 Live Demo
 
-![NoiceControll Interface](docs/images/screenshot.jpg)
+![NoiseControl Interface](docs/images/screenshot.jpg)
 
 ## 🚀 Key Features
 
@@ -66,15 +66,15 @@ NoiceControll is an advanced noise monitoring solution that helps you keep track
 ## 📦 Installation
 
 ### Windows Executable
-1. Download the latest release from our [Releases page](https://github.com/VictorNoxx/noiceControll/releases)
+1. Download the latest release from our [Releases page](https://github.com/VictorNoxx/NoiseControl/releases)
 2. Extract the ZIP file
-3. Run `NoiceControll.exe`
+3. Run `NoiseControl.exe`
 
 ### From Source
 1. Clone the repository:
 ```bash
-git clone https://github.com/VictorNoxx/noiceControll.git
-cd noiceControll
+git clone https://github.com/VictorNoxx/NoiseControl.git
+cd NoiseControl
 ```
 
 2. Install dependencies:
@@ -101,7 +101,7 @@ The executable will be created in the `dist` directory.
 ```bash
 python noise_monitor_gui.py
 ```
-or run `NoiceControll.exe` if using the Windows release.
+or run `NoiseControl.exe` if using the Windows release.
 
 ### Command Line Mode
 ```bash
