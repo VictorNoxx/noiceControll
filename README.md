@@ -155,9 +155,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Contributors
 
-- [@VictorNoxx](https://github.com/VictorNoxx) - Project maintainer
-- [@artickc](https://github.com/artickc) - Core contributor
-- NOXX Agency - Copyright holder
+- [@artickc](https://github.com/artickc)
 
 ## 📄 License
 
